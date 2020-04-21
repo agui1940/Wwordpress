@@ -1,4 +1,4 @@
-# WordPress: with Nginx web server in Docker
+# WordPress: with Nginx web server and Webp Server in Docker
 
 This project is a docker compose installation of a single site WordPress instance using Nginx as the web server and MariaDB as the database.
 
